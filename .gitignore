@@ -8,5 +8,14 @@
 *.war
 *.ear
 
+# Test Files #
+PriorityTest.java
+WebGraphTest.java
+ShortTest.java
+ConnectTest.java
+
+# Graph Persist #
+*.ser
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
